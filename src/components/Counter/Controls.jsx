@@ -11,4 +11,5 @@ const Controls = ({onIncrement,onDecrement}) => (
   </div>
 )
 
+
 export default Controls;
