@@ -1,1 +1,1 @@
-# example-3-react
+# react_simple_examples
