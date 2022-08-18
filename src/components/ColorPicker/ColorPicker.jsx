@@ -14,6 +14,7 @@ const ColorPicker = ({options}) => {
         return optionClasses.join(' ');
       };
 
+      
     return (
         <div className="ColorPicker">
           <h2 className="ColorPicker__title">Color Picker</h2>
